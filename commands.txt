@@ -7,4 +7,38 @@
    git status 
    git commit -m "initial commit"
    git push 
+  
+  21  28-May-2023 04:28:29 apt install git
+   22  28-May-2023 04:28:34 sudo apt install git
+   23  28-May-2023 04:28:43 git clone git@github.com:rskTech/simplilearn.git
+   24  28-May-2023 04:28:52 ls
+   25  28-May-2023 04:29:04 cd simplilearn/
+   26  28-May-2023 04:29:07 ls
+   27  28-May-2023 04:29:16 ls -al
+   28  28-May-2023 04:29:49 ls
+   29  28-May-2023 04:29:55 git status
+   30  28-May-2023 04:30:46 vi app.py
+   31  28-May-2023 04:32:04 cat app.py
+   32  28-May-2023 04:32:16 git status
+   33  28-May-2023 04:32:56 git add app.py
+   34  28-May-2023 04:33:00 git status
+   35  28-May-2023 04:33:29 git commit -m "Initial commit"
+   36  28-May-2023 04:33:33 ls
+   37  28-May-2023 04:33:47 git push
+   38  28-May-2023 04:35:41 history
    
+   
+   
+     40  28-May-2023 04:54:10 git log
+   41  28-May-2023 04:55:47 git config --global user.name "Rajendra"
+   42  28-May-2023 04:55:59 git config --global user.email "rajendra@gmail.com"
+   43  28-May-2023 04:56:16 vi app.py
+   44  28-May-2023 04:56:38 git status
+   45  28-May-2023 04:56:46 git diff
+   46  28-May-2023 04:57:04 git add app.py
+   47  28-May-2023 04:57:14 git commit -m "app.py modified"
+   48  28-May-2023 04:57:18 git log
+   49  28-May-2023 04:58:04 git push
+   50  28-May-2023 04:58:09 git log
+   51  28-May-2023 04:58:42 history
+ 
