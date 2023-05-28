@@ -1,0 +1,10 @@
+   git clone git@github.com:satla1308/training.git
+   ll -a
+   vi app.py
+   git status 
+   git commit
+   git add app.py
+   git status 
+   git commit -m "initial commit"
+   git push 
+   
