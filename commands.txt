@@ -64,4 +64,5 @@ a   53  28-May-2023 05:18:45 git branch
    72  28-May-2023 05:28:59 git push
    73  28-May-2023 05:29:03 git log
    74  28-May-2023 05:29:47 history
- 
+
+git push --set-upstream origin branch1 
