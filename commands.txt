@@ -41,4 +41,27 @@
    49  28-May-2023 04:58:04 git push
    50  28-May-2023 04:58:09 git log
    51  28-May-2023 04:58:42 history
+
+a   53  28-May-2023 05:18:45 git branch
+   54  28-May-2023 05:18:54 git log
+   55  28-May-2023 05:24:15 git branch
+   56  28-May-2023 05:24:19 git log
+   57  28-May-2023 05:24:41 git branch dev1
+   58  28-May-2023 05:24:48 git branch
+   59  28-May-2023 05:25:11 git checkout dev1
+   60  28-May-2023 05:25:22 ls
+   61  28-May-2023 05:25:28 git branch
+   62  28-May-2023 05:25:38 vi app.py
+   63  28-May-2023 05:25:59 git add app.py
+   64  28-May-2023 05:26:13 git commit -m "branching"
+   65  28-May-2023 05:26:18 git log
+   66  28-May-2023 05:26:47 vi app.py
+   67  28-May-2023 05:26:59 git checkout main
+   68  28-May-2023 05:27:03 vi app.py
+   69  28-May-2023 05:28:27 git merge dev1
+   70  28-May-2023 05:28:34 vi app.py
+   71  28-May-2023 05:28:40 git log
+   72  28-May-2023 05:28:59 git push
+   73  28-May-2023 05:29:03 git log
+   74  28-May-2023 05:29:47 history
  
